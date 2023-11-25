@@ -1,0 +1,14 @@
+{
+  "name": "deduplication",
+  "dockerFile": "Dockerfile",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+		"ms-python.python",
+		"ms-toolsai.jupyter"
+	]
+    }
+  },
+  "runArgs": ["--gpus", "all"],
+  "remoteUser": "jovyan"
+}
