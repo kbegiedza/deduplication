@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>429409</id>
+      <size>12</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2023-11-25 11:25:34.206198+00:00</created>
+      <updated>2023-11-25 11:27:39.593782+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>11</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>429808</id>
+          <start>0</start>
+          <stop>11</stop>
+          <url>https://app.cvat.ai/api/jobs/429409</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>kbegiedza</username>
+        <email>krzysztof.begiedza@gmail.com</email>
+      </owner>
+      <assignee>
+        <username>kbegiedza</username>
+        <email>krzysztof.begiedza@gmail.com</email>
+      </assignee>
+      <labels>
+        <label>
+          <name>person</name>
+          <color>#c06060</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>car</name>
+          <color>#2080c0</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2023-11-25 11:28:46.694465+00:00</dumped>
+  </meta>
+  <image id="0" name="533023-Lamborghini-car-car_show-photography-black_cars-luxury_cars.jpg" width="3840" height="2160">
+    <box label="car" source="manual" occluded="0" xtl="188.08" ytl="101.99" xbr="3657.48" ybr="2117.78" z_order="0">
+    </box>
+    <box label="car" source="manual" occluded="0" xtl="2340.42" ytl="36.71" xbr="3837.08" ybr="1311.01" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="Girl-Download-Transparent-PNG-Image-1.png" width="675" height="629">
+    <box label="person" source="manual" occluded="0" xtl="0.00" ytl="5.55" xbr="674.36" ybr="628.75" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="OIP (1).jpeg" width="1000" height="562">
+    <box label="person" source="manual" occluded="0" xtl="79.37" ytl="0.00" xbr="999.93" ybr="562.00" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="OIP (2).jpeg" width="1920" height="1080">
+    <box label="person" source="manual" occluded="0" xtl="198.06" ytl="0.00" xbr="1714.68" ybr="1080.00" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="OIP (3).jpeg" width="474" height="512">
+    <box label="person" source="manual" occluded="0" xtl="0.23" ytl="5.65" xbr="473.29" ybr="512.00" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="OIP (4).jpeg" width="679" height="695">
+    <box label="person" source="manual" occluded="0" xtl="11.35" ytl="13.23" xbr="649.38" ybr="695.00" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="OIP (5).jpeg" width="500" height="500">
+    <box label="person" source="manual" occluded="0" xtl="0.00" ytl="0.85" xbr="500.00" ybr="499.58" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="OIP (6).jpeg" width="940" height="788">
+    <box label="person" source="manual" occluded="0" xtl="0.00" ytl="0.00" xbr="940.00" ybr="788.00" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="OIP (7).jpeg" width="1200" height="628">
+    <box label="person" source="manual" occluded="0" xtl="207.91" ytl="0.00" xbr="1028.42" ybr="628.00" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="OIP.jpeg" width="474" height="289">
+    <box label="car" source="manual" occluded="0" xtl="50.53" ytl="82.87" xbr="437.87" ybr="251.31" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="R.png" width="1920" height="1080">
+    <box label="person" source="manual" occluded="0" xtl="81.34" ytl="56.70" xbr="1882.09" ybr="1080.00" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="videoblocks-closeup-african-american-man-thinking-on-black-background-portrait-of-curious-afro-male-person-looking-at-camera-in-studio-doubtful-african-guy-getting-an-idea-indoors_ssv9dibdd_thumbnail-1080_01.png" width="1920" height="1080">
+    <box label="person" source="manual" occluded="0" xtl="120.75" ytl="0.00" xbr="1914.11" ybr="1080.00" z_order="0">
+    </box>
+  </image>
+</annotations>
